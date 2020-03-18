@@ -26,37 +26,37 @@ Android 9
 ARCore SDK 1.15.0
 
 ## Interaction
-*Start the App*
+*1. Start the App*
 
 Hold the smart phone upright and start the app. 
 
-*Input Shoulder Width*
+*2. Input Shoulder Width*
 
 Input your shoulder width on upper left corner. Click on button "OK" to confrim your input.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_FirstExperiment/blob/master/Capture/AJFirstCueE_InputShoulderWidth.jpg" width="150" height="300"/>
 
-*Detect Surface*
+*3. Detect Surface*
 
 Scan the environment and there will be triangular grids on the floor when the system detect that surface. Hit a specific point on the grid area and a pair of poles will show up on the point with the same x and y coordinate of your hit, but always 2m away. The width of the poles depends on the your shoulder width. The aperture starts with small width then large width.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_FirstExperiment/blob/master/Capture/AJFirstCueE_Grid.jpg" width="150" height="300"/>
 
-*Move Virtual Poles*
+*4. Move Virtual Poles*
 
 Click on button 'Inward' or 'Outward' to make the two poles change 2cm increments inward or outward every single time.  You can click the button 'Go!' when you think you have adjust the gap between two poles to right let you pass through without turning your shoulder. The system will show "[Trial #] Please hit the grid on the ground to continue the trial." 
 
-*Show the Cue*
+*5. Show the Cue*
 
 When it comes to the 4th trial, there will be a bar with your shoulder width size showing in front of you. You can use that as a cue to help you estimate the minimum gap letting you go through.
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_FirstExperiment/blob/master/Capture/AJFirstCueE.jpg" width="150" height="300"/>
 
-*Finish*
+*6. Finish*
 
 When you complete all trials, The system will show "You've finished all trials :)" 
 
-*Record the Experiment Data*
+*7. Record the Experiment Data*
 
 This App uses "Application.persistentDataPath" to record the experiment data.  "Application.persistentDataPath" points to points to a public directory on the device(eg./storage/emulated/0/Android/data/<packagename>/files on most devices). Files in this location are not erased by app updates. The files can still be erased by users directly.
 
