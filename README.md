@@ -5,7 +5,7 @@ This project is to explore human affordance judgement in mobile AR and how cogni
 
 <img src="https://raw.githubusercontent.com/zy0531/AR_AffordanceJudgement_FirstExperiment/master/Capture/trial%20procedure.png" width="500" height="300"/>
 
-This is a preliminary experiment to figure out how the cues of shoulder width impact the affordance judgement of passing through aperture. Specifically, participants are instructed to adjust the two poles in front of them until they thought it is the smallest width that they could walk through without turning their shoulder. This is a between-subject experiment. Each group of subjects are given a cue with the size of a ratio to his/her shoulder width. The ratios are 0.8, 1.0 and 1.2.
+This is a preliminary experiment to figure out how the cues of shoulder width impact the affordance judgement of passing through the aperture. Specifically, participants are instructed to adjust the two poles in front of them until they thought it is the smallest width that they could walk through without turning their shoulder. This is a between-subject experiment. Each group of subjects are given a cue with the size of a ratio to his/her shoulder width. The ratios are 0.8, 1.0 and 1.2. Figures below show cues in three ratio of a 0.45m shoulder width. 
 
 <img src="https://raw.githubusercontent.com/zy0531/AR_AffordanceJudgement_FirstExperiment/master/Capture/AJFirstCueS.jpg" width="150" height="300"/>    <img src="https://raw.githubusercontent.com/zy0531/AR_AffordanceJudgement_FirstExperiment/master/Capture/AJFirstCueE.jpg" width="150" height="300"/>    <img src="https://raw.githubusercontent.com/zy0531/AR_AffordanceJudgement_FirstExperiment/master/Capture/AJFirstCueL.jpg" width="150" height="300"/>
 
@@ -52,6 +52,9 @@ When it comes to the 4th trial, there will be a bar with your shoulder width siz
 
 <img src="https://github.com/zy0531/AR_AffordanceJudgement_FirstExperiment/blob/master/Capture/AJFirstCueE.jpg" width="150" height="300"/>
 
+*Finish*
+
+When you complete all trials, The system will show "You've finished all trials :)" 
 
 *Record the Experiment Data*
 
