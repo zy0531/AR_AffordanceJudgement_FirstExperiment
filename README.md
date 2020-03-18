@@ -59,6 +59,9 @@ When you complete all trials, The system will show "You've finished all trials :
 *7. Record the Experiment Data*
 
 This App uses "Application.persistentDataPath" to record the experiment data.  "Application.persistentDataPath" points to points to a public directory on the device(eg./storage/emulated/0/Android/data/<packagename>/files on most devices). Files in this location are not erased by app updates. The files can still be erased by users directly.
+  
+<img src="https://github.com/zy0531/AR_AffordanceJudgement_FirstExperiment/blob/master/Capture/data.png" width="250" height="100"/>
 
 ## Demo Video
 A whole process of this experiment.
+https://drive.google.com/open?id=1-6f-raYs2eloPENyitHqLXMxYVyv8pYS
