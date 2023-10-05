@@ -1,4 +1,4 @@
-# AR_AffordanceJudgement_FirstExperiment
+# AR_AffordanceJudgement_PassingThrough
 
 ## Introduction
 This project is to explore human affordance judgement in mobile AR and how cognitive cue influence affordance judgement in Real World and in AR condition.  
